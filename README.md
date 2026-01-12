@@ -21,6 +21,10 @@ Microsoft Excel / Google Sheets (Pivot Tables, Advanced Charting, Data Cleaning,
 - **Strategic Verdict**: Bitcoin can serve as a powerful growth supplement for portfolios with high risk tolerance, but it is not suitable as a standalone safe-haven asset.
 
 ## How to View
+
+**Project Report (PDF)**:  
+Click on the PDF file directly in the repository — GitHub renders it natively in your browser, so you can view all charts, tables, insights, and the full formatted report without downloading.
+
 Since GitHub does not render Excel charts and dashboards natively:
 
 1. Click on the .xlsx file in the repository.
