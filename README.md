@@ -10,7 +10,7 @@
 This project analyzes the performance of Bitcoin (BTC) compared to the S&P 500 index throughout 2021. The primary goal was to evaluate Bitcoin as a potential addition to a traditional investment portfolio, with a focus on the trade-off between Risk (Volatility) and Reward (Upside Potential).
 
 ## File Description
-File Name: 2021_Market_Analysis_BTC_vs_SP500.xlsx
+File Name: Bitcoin-SP500-2021-Analysis.xlsx
 
 ## Tools Used
 Microsoft Excel / Google Sheets (Pivot Tables, Advanced Charting, Data Cleaning, Statistical Functions).
