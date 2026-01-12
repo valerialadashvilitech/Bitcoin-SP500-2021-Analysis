@@ -4,7 +4,7 @@
 [Bitcoin vs. S&P 500 2021 Analysis in Excel (Codecademy Project).pdf](Bitcoin%20vs.%20S&P%20500%202021%20Analysis%20in%20Excel%20(Codecademy%20Project).pdf)
 
 📊 **Interactive Workbook**:  
-[Download Excel File](2021_Market_Analysis_BTC_vs_SP500.xlsx)
+[Download Excel File](Bitcoin-SP500-2021-Analysis.xlsx)
 
 ## Project Overview
 This project analyzes the performance of Bitcoin (BTC) compared to the S&P 500 index throughout 2021. The primary goal was to evaluate Bitcoin as a potential addition to a traditional investment portfolio, with a focus on the trade-off between Risk (Volatility) and Reward (Upside Potential).
